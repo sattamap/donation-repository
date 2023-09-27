@@ -12,7 +12,7 @@ On this dynamic page, users can view detailed information about the selected don
 When users click the "Donate Here" button on the dynamic page, the selected donation card's data is stored in local storage.
 This feature allows users to keep track of their selected donations even if they leave the website and return later.
 
-3. **Statistics Page with Pie Chart **:
+3. **Statistics Page with Pie Chart**:
 
 The Statistics page presents a visual representation of donation statistics.
 It includes a pie chart that shows the distribution of total donations and user-specific donations, providing a clear overview of contributions.
