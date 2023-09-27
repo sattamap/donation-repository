@@ -6,7 +6,7 @@ const Navbar = () => {
 
         <div className="max-w-[1300px] mx-auto navbar py-14">
             <div className="flex-1">
-                <img  src="/public/Resources/Logo.png" alt="" />
+                <img  src="./Logo.png" alt="" />
             </div>
             <div className="flex-none">
                 <ul className="menu menu-horizontal px-1">
