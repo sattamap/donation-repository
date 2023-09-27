@@ -3,7 +3,7 @@ import Navbar from "../Navbar/Navbar";
 import PropTypes from "prop-types";
 
 const Banner = ({ handleSearch }) => {
-    console.log(typeof(handleSearch));
+    
     const [searchQuery, setSearchQuery] = useState("");
 
     const handleInputChange = (event) => {

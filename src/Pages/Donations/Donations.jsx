@@ -1,11 +1,11 @@
 
 
 const Donations = () => {
-  return (
-    <div>
-      
-    </div>
-  );
+    return (
+        <div>
+            
+        </div>
+    );
 };
 
 export default Donations;
