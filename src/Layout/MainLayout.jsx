@@ -1,3 +1,4 @@
+import Navbar from "../Components/Header/Navbar/Navbar";
 
 
 
@@ -5,7 +6,7 @@ const MainLayout = () => {
     return (
         <div>
             
-            <h2>My layout</h2>
+            <Navbar></Navbar>
         </div>
     );
 };
