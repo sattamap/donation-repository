@@ -1,0 +1,123 @@
+ [
+        {
+            "picture": "https://i.ibb.co/qDcnbt5/Health.png",
+            "title": "Clean Water for Children",
+            "category": "Health",
+            "category_bg": "#0052ff33",
+            "card_bg": "#0052ff26",
+            "text_button_bg": "#0052ff",
+            "description": "Access to clean water is a fundamental human right, yet millions of children around the world still lack this basic necessity. Your donation to the Clean Water for Children initiative will make a significant impact on improving the lives of these children. Clean water is essential for drinking, cooking, sanitation, and overall health. Contaminated water sources can lead to waterborne diseases and, tragically, even loss of life, especially among children. By supporting this cause, you are contributing to the installation of clean water systems in underserved communities, ensuring that children have safe, reliable access to this life-saving resource. Your generous donation will help fund the construction of wells, water purification systems, and the training of local communities to maintain these facilities. Additionally, it will support education programs on proper hygiene and sanitation practices, further enhancing the positive impact of your contribution.  With your help, we can create a healthier and brighter future for countless children. Together, we can ensure that no child has to worry about the safety of the water they drink and that they can thrive and reach their full potential. Thank you for your support in providing clean water for children in need.",
+            "price": 290
+        },
+        {
+            "picture": "https://i.ibb.co/23c6ZSk/Education.png",
+            "title": "Good Education",
+            "category": "Education",
+            "category_bg": "#ff444a33",
+            "card_bg": "#ff444a26",
+            "text_button_bg": "#FF444A",
+            "description": "Access to quality education is a fundamental right that should be available to every child, regardless of their background or circumstances. Unfortunately, many children around the world face barriers to receiving a good education. Your donation to the Good Education initiative aims to break down these barriers and create opportunities for a brighter future. Education opens doors, empowers individuals, and builds strong communities. It is the key to escaping the cycle of poverty, unlocking one's potential, and contributing to the betterment of society. By supporting this cause, you are investing in the future of children and students who deserve a chance to learn, grow, and thrive.Your generous donation will be used to support a range of educational programs, including scholarships for underprivileged students, the provision of learning materials and resources, and the training of dedicated teachers. It will also fund initiatives that promote digital literacy and STEM education, ensuring that students are prepared for the challenges of a rapidly changing world.Together, we can make a difference in the lives of countless children and young adults. Your contribution to the Good Education initiative will help create a world where every child has the opportunity to receive a quality education and reach their full potential. Thank you for investing in the future of our youth.",
+            "price": 300
+        },
+        {
+            "picture": "https://i.ibb.co/091CW1Q/Clothing.png",
+            "title": "Used Clothing Drive",
+            "category": "Clothing",
+            "category_bg": "#79c23f33",
+            "card_bg": "#79c23f26",
+            "text_button_bg": "#79C23F",
+            "description": "The Used Clothing Drive initiative is dedicated to providing warmth and comfort to those in need by collecting gently-used clothing and distributing it to underserved communities. Your donation to this cause can make a significant difference in the lives of individuals and families facing difficult circumstances.Cold weather can be especially challenging for those without adequate clothing. It's not just about staying warm; it's also about maintaining dignity and self-esteem. Your generous donation will support the collection, sorting, and distribution of clothing items to individuals who may not have access to suitable attire.Additionally, your contribution will help provide essentials such as blankets, socks, and hygiene kits to those experiencing homelessness or hardship. These items can greatly improve the quality of life for individuals in crisis situations. By participating in the Used Clothing Drive initiative, you are helping to create a more compassionate and caring society. Your support ensures that no one has to suffer from the cold or go without proper clothing. Together, we can make a positive impact and bring comfort to those in need. Thank you for your generosity.",
+            "price": 270
+        },
+        {
+            "picture": "https://i.ibb.co/4NBZ8pv/Food.png",
+            "title": "Better Food for Everyone",
+            "category": "Food",
+            "category_bg": "#f8714733",
+            "card_bg": "#f8714726",
+            "text_button_bg": "#F87147",
+            "description": "Access to nutritious food is a basic human right, yet millions of people, including children, go to bed hungry every night. Your donation to the Better Food for Everyone initiative will help address food insecurity and improve the lives of those facing hunger.Hunger and malnutrition have serious consequences for individuals and communities. They can lead to stunted growth, weakened immune systems, and a cycle of poverty that is difficult to escape. By supporting this cause, you are contributing to initiatives that provide access to healthy and nutritious food for those in need. Your generous donation will support food banks, community gardens, and meal programs that serve vulnerable populations. It will also fund educational efforts to promote sustainable agriculture and food security, ensuring that individuals and communities can access food on an ongoing basis.With your help, we can work towards a world where no one has to go to bed hungry. Your contribution to the Better Food for Everyone initiative will provide hope, nourishment, and a brighter future for countless individuals and families. Thank you for your commitment to ending hunger and improving lives.","price": 280
+        },
+     
+        {
+            "picture": "https://i.ibb.co/dJNPhqd/STEM-Education.jpg",
+            "title": "STEM Education Initiative",
+            "category": "Education",
+            "category_bg": "#ff444a33",
+            "card_bg": "#ff444a26",
+            "text_button_bg": "#FF444A",
+            "description": "Support STEM (Science, Technology, Engineering, and Mathematics) education to prepare students for the challenges of the future. Your donation to the STEM Education Initiative will empower students with critical skills and knowledge in these fields, fostering innovation and progress.",
+            "price": 320
+        },
+        {
+            "picture": "https://i.ibb.co/5R2G1qP/winter-clothing.jpg",
+            "title": "Warm Winter Clothing Drive",
+            "category": "Clothing",
+            "category_bg": "#79c23f33",
+            "card_bg": "#79c23f26",
+            "text_button_bg": "#79C23F",
+            "description": "Help keep individuals and families warm during the winter by supporting the Warm Winter Clothing Drive. Your donation will provide winter clothing essentials, such as coats, scarves, and gloves, to those in need. Together, we can make a difference in cold weather conditions.",
+            "price": 240
+        },
+        {
+            "picture": "https://i.ibb.co/C1M21x8/rsz-child-nutrition-helath.jpg",
+            "title": "Child Health and Nutrition",
+            "category": "Health",
+            "category_bg": "#0052ff33",
+            "card_bg": "#0052ff26",
+            "text_button_bg": "#0052ff",
+            "description": "Ensuring the health and nutrition of children is essential for their growth and development. Your donation to Child Health and Nutrition programs will provide access to vital healthcare services and nutritious meals for vulnerable children. Together, we can give every child a healthy start in life.",
+            "price": 310
+        },
+        {
+            "picture": "https://i.ibb.co/n89Wx2g/community-food.jpg",
+            "title": "Community Gardens Project",
+            "category": "Food",
+            "category_bg": "#f8714733",
+            "card_bg": "#f8714726",
+            "text_button_bg": "#F87147",
+            "description": "Support community gardens that provide fresh and locally grown produce to underserved areas. Your donation to the Community Gardens Project will help establish and maintain community gardens, promoting food security and healthier eating habits.",
+            "price": 270
+        
+        },
+        {
+            "picture": "https://i.ibb.co/qBxNqCC/rsz-warm-clothing.jpg",
+            "title": "Warm Clothing Drive",
+            "category": "Clothing",
+            "category_bg": "#79c23f33",
+            "card_bg": "#79c23f26",
+            "text_button_bg": "#79C23F",
+            "description": "Keep individuals warm during the colder months by supporting the Warm Clothing Drive. Your donation will provide warm clothing items, such as coats and blankets, to those facing cold weather without adequate attire.",
+            "price": 220
+        },
+        {
+            "picture": "https://i.ibb.co/B3YmHp9/Nutritious-food.jpg",
+            "title": "Nutritious Meals for Families",
+            "category": "Food",
+            "category_bg": "#f8714733",
+            "card_bg": "#f8714726",
+            "text_button_bg": "#F87147",
+            "description": "Provide nutritious meals to families in need by supporting our Nutritious Meals for Families program. Your donation will help combat hunger and food insecurity, ensuring that families have access to healthy and balanced meals every day.",
+            "price": 250
+        },
+        {
+            "picture": "https://i.ibb.co/sbqHVBR/Scholarship-Education.jpg",
+            "title": "Scholarships for Students",
+            "category": "Education",
+            "category_bg": "#ff444a33",
+            "card_bg": "#ff444a26",
+            "text_button_bg": "#FF444A",
+            "description": "Help underprivileged students access quality education by contributing to scholarships. Your donation will provide educational opportunities to deserving students, empowering them to reach their full potential through learning.",
+            "price": 340
+        },
+        {
+            "picture": "https://i.ibb.co/BZ5g5VR/metarnal-Health.jpg",
+            "title": "Maternal and Child Health",
+            "category": "Health",
+            "category_bg": "#0052ff33",
+            "card_bg": "#0052ff26",
+            "text_button_bg": "#0052ff",
+            "description": "Support maternal and child health initiatives to ensure the well-being of mothers and their children. Your donation will provide essential healthcare services and support programs to improve the health and lives of mothers and infants.",
+            "price": 310
+        }
+    ]
