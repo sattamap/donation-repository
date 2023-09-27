@@ -2,7 +2,7 @@ import DonationCard from "./DonationCard";
 import PropTypes from "prop-types";
 
 const DonationCards = ({ filteredDonations }) => {
-  console.log(typeof(filteredDonations));
+  console.log(filteredDonations);
 
   if (!filteredDonations || filteredDonations.length === 0) {
     return <p>No donations match your search.</p>;
@@ -19,8 +19,7 @@ const DonationCards = ({ filteredDonations }) => {
   );
 };
 
-DonationCards.propTypes={
-  filteredDonations: PropTypes.object,
+DonationCards.propTypes = {
+    filteredDonations: PropTypes.object,
 }
-
 export default DonationCards;

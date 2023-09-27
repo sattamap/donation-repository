@@ -44,7 +44,7 @@ const DonationCard = ({ donation, idx }) => {
     );
 };
 DonationCard.propTypes = {
-    donation: PropTypes.array,
+    donation: PropTypes.array ,
     idx: PropTypes.number,
 }
 export default DonationCard;

@@ -1,7 +1,7 @@
 
 import PropTypes from "prop-types";
 
-const AllDonations = ({ donation}) => {
+const AllDonations = ({ donation }) => {
     const { picture, title, category, category_bg, card_bg, text_button_bg, price } = donation || {};
 
     // Define inline styles based on the color values
@@ -45,7 +45,7 @@ const AllDonations = ({ donation}) => {
 
 AllDonations.propTypes = {
     donation: PropTypes.array,
-    
+    index: PropTypes.number,
 }
 
 export default AllDonations;

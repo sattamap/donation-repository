@@ -2,8 +2,8 @@
 
 const ErrorPage = () => {
     return (
-        <div>
-            
+        <div className='h-screen flex justify-center  items-center'>
+            <h1 className="font-extrabold text-5xl">Opps!!</h1>
         </div>
     );
 };
